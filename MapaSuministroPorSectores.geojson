@@ -5144,6 +5144,43 @@
         ]
       },
       "id": "0479df1d-8882-4c7b-87d9-dcd0dcb3f17c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "#7FFFBF",
+        "shape": "Polygon",
+        "name": "Unnamed Layer",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.400329,
+              25.514261
+            ],
+            [
+              -103.396116,
+              25.514171
+            ],
+            [
+              -103.396073,
+              25.517589
+            ],
+            [
+              -103.398867,
+              25.518786
+            ],
+            [
+              -103.400329,
+              25.514261
+            ]
+          ]
+        ]
+      },
+      "id": "f8d004cf-ebe9-4fdc-ae25-00739751ad82"
     }
   ]
 }
