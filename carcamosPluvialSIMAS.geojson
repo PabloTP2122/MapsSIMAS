@@ -3,14 +3,17 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Cárcamo pluvial"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -103.4383177757263,
           25.576453095914214
         ]
-      }
+      },
+      "id": "1ff6812c-65db-4110-8a41-7ee3bb776f52"
     }
   ]
 }
