@@ -14,6 +14,22 @@
         ]
       },
       "id": "1ff6812c-65db-4110-8a41-7ee3bb776f52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Cárcamo pluvial",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.428933,
+          25.573669
+        ]
+      },
+      "id": "e13fd5fb-a774-49f2-a597-52a8e809d2ac"
     }
   ]
 }
