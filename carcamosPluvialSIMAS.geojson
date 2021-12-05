@@ -30,6 +30,34 @@
         ]
       },
       "id": "e13fd5fb-a774-49f2-a597-52a8e809d2ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Line",
+        "name": "Unnamed Layer",
+        "category": "default",
+        "strokeColor": "#BF00FF",
+        "style": "#BF00FF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.438318,
+            25.576453
+          ],
+          [
+            -103.423596,
+            25.57309
+          ],
+          [
+            -103.42231,
+            25.573163
+          ]
+        ]
+      },
+      "id": "b22e1906-f3a0-4208-a181-faff33a78831"
     }
   ]
 }
